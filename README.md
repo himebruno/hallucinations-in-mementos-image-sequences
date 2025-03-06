@@ -22,6 +22,8 @@ In addition, we also did explore mitigation hallucination techniques, which are 
     2.5. LLaVA1.5 + HALC <br>
     2.6. LLaVA1.5 + HALC + Incorrect Prompt <br>
 
+## Paper
+The paper can be found in this repository as the file named _Hallucination_in_Image_Sequences_using_Mementos.pdf_
 ## Dataset
 The dataset of the daily-life images can be found in [Mementos paper](https://arxiv.org/abs/2401.10529) 
 
